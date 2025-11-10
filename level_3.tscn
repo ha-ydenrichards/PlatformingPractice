@@ -1,6 +1,6 @@
 [gd_scene load_steps=7 format=3 uid="uid://c0tuu4q8heo01"]
 
-[ext_resource type="Script" path="res://level_3.gd" id="1_xr1ou"]
+[ext_resource type="Script" uid="uid://bn1nv5tocw0uh" path="res://level_3.gd" id="1_xr1ou"]
 [ext_resource type="PackedScene" uid="uid://crue5k3q25jpi" path="res://Player/Player.tscn" id="2_smdrs"]
 [ext_resource type="PackedScene" uid="uid://2646j483itc0" path="res://tile_map.tscn" id="3_tq7y0"]
 [ext_resource type="Texture2D" uid="uid://c54ddpt1c5fw6" path="res://Sunny Land/Sunny Land Collection Files/Packs/Packs/Winter Pack/ENVIRONMENT/Background/sky.png" id="4_lv6lk"]

@@ -1,6 +1,6 @@
 extends Node2D
 var inArea = false
-
+var coding_chicken = false
 # Called when the node enters the scene tree for the first time.
 func _ready():
 	MusicController.play_level3_music()
